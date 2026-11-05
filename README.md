@@ -41,7 +41,7 @@ MVP_project/
 1. Клонируйте репозиторий на свой компьютер:
 
 ```bash
-git clone https://github.com/ТВОЙ_НИКНЕЙМ/MVP_project.git
+git clone https://github.com/Maksimov-tim/MVP_project.git
 cd MVP_project
 ```
 
